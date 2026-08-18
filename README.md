@@ -1,7 +1,7 @@
-Proyecto Data Science / IA
+# Proyecto Data Science / IA
 
 Repositorio correspondiente al proyecto incremental del máster.
 
 ## Entregas
 
-- Entrega 1 — Propuesta inicial de ideas de producto
+- [Entrega 1 — Propuesta inicial de ideas de producto](docs/entregas/01_ideas_producto.md)
